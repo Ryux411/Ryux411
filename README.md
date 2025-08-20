@@ -48,6 +48,15 @@ These are not the centre of gravity like Next.js, but extensions of range, proof
 
 ---
 
+### Frontend Foundations  
+The structural core every interface is built on — styled, extended, and forged into systems.  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+
+---
+
 ### Backend & Infrastructure  
 Systems built to handle the load, connect the nodes, and keep operations resilient.  
 
