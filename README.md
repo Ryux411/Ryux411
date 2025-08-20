@@ -2,9 +2,11 @@
 
 ## ACCESS PROTOCOL: RYUX411
 
-Repository node established.  
-This interface documents active builds, deployed protocols, and current network operations.  
-Modules are under continuous development — system logs update in real time.  
+Ryu operates in cycles of design and execution, each construct deliberate, each layer a foundation for what follows.  
+The work is not measured in surface metrics or visible graphs but in the systems that persist beneath them — resilient, adaptive, built to endure.  
+
+What emerges is not code alone, but frameworks that bind structure to intent.  
+This repository is both ledger and signal, tracing the path of a developer driven by precision, scale, and vision.  
 
 ---
 
@@ -22,7 +24,7 @@ Operational frameworks integrated within the network:
 
 ## SYSTEM STATS
 
-Live metrics from the neural repository:
+Live telemetry from the repository node:  
 
 ![Ryux411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryux411&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ryux411&theme=radical)  
@@ -31,19 +33,9 @@ Live metrics from the neural repository:
 
 ---
 
-## ACTIVE MODULES
-
-Current operations in progress:
-
-[NeuroNet Override](https://github.com/Ryux411/neuronet) — Core systems build  
-[Pathway](https://github.com/Ryux411/pathway) — Directive interface  
-[Data Rights Protocol](https://github.com/Ryux411/legal) — Privacy & neural terms  
-
----
-
 ## CONNECTIONS
 
-External traces and inbound signals:
+External traces and inbound signals:  
 
 [![Visitors](https://komarev.com/ghpvc/?username=Ryux411&color=ff4d4d)](https://github.com/Ryux411)
 
