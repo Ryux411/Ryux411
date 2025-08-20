@@ -43,13 +43,24 @@ External traces and inbound signals:
 
 ## EXTENDED SYSTEMS
 
-Operational range expands to include:  
+The operational range expands across the **full stack** — from infrastructure and APIs to immersive frontends and Web3 protocols.  
+These frameworks are deployed where scope, scale, and ambition demand more than the primary toolkit:  
 
+**Backend & Infrastructure**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)  
+
+**3D / Immersive**  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)  
+
+**Web3 / Blockchain**  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Hardhat](https://img.shields.io/badge/Hardhat-FCCB00?style=for-the-badge&logo=hardhat&logoColor=black)  
+![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)  
 
 ---
