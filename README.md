@@ -21,9 +21,9 @@
 
 ## 🧩 ACTIVE MODULES
 
-- 🚀 **[NeuroNet Override](https://github.com/Ryux411/neuronet)** → Core systems build  
-- 🌌 **[Pathway](https://github.com/Ryux411/pathway)** → Roadmap interface  
-- 🔒 **[Data Rights Protocol](https://github.com/Ryux411/legal)** → Privacy & neural terms  
+**[NeuroNet Override](https://github.com/Ryux411/neuronet)** → Core systems build  
+**[Pathway](https://github.com/Ryux411/pathway)** → Roadmap interface  
+**[Data Rights Protocol](https://github.com/Ryux411/legal)** → Privacy & neural terms  
 
 ---
 
