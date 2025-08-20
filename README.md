@@ -10,7 +10,8 @@ This repository is both ledger and signal, tracing the path of a developer drive
 
 ## PRIMARY PROTOCOLS
 
-Core technologies consistently deployed in active systems:
+These are the trusted frameworks where Ryu’s expertise is deepest.  
+Battle-tested technologies, consistently deployed to deliver resilient systems and scale-ready architectures:  
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
