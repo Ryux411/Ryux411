@@ -40,11 +40,9 @@ External traces and inbound signals:
 [![Visitors](https://komarev.com/ghpvc/?username=Ryux411&color=ff4d4d)](https://github.com/Ryux411)  
 
 ---
-
 ## EXTENDED SYSTEMS
 
-The operational range expands across the **full stack** — from infrastructure and APIs to immersive frontends and Web3 protocols.  
-These frameworks are deployed where scope, scale, and ambition demand more than the primary toolkit:  
+The operational range expands across the **full stack** — backend, immersive interfaces, and optimisation layers that strengthen delivery:  
 
 **Backend & Infrastructure**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -56,11 +54,9 @@ These frameworks are deployed where scope, scale, and ambition demand more than 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)  
 
-**Web3 / Blockchain**  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Hardhat](https://img.shields.io/badge/Hardhat-FCCB00?style=for-the-badge&logo=hardhat&logoColor=black)  
-![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)  
+**SEO / Optimisation**  
+![Next SEO](https://img.shields.io/badge/Next%20SEO-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![React Helmet](https://img.shields.io/badge/React%20Helmet-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Schema.org](https://img.shields.io/badge/Schema.org-FF6600?style=for-the-badge&logo=json&logoColor=white)  
+![Vercel Analytics](https://img.shields.io/badge/Vercel%20Analytics-black?style=for-the-badge&logo=vercel&logoColor=white)  
 
----
