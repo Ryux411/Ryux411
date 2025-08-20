@@ -1,4 +1,3 @@
-
 ---
 
 ## 🛰 STACK PROTOCOLS
@@ -13,20 +12,24 @@
 
 ## 📡 SYSTEM STATS
 
-![Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=redical)
+![Ryux411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryux411&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ryux411&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryux411&theme=redical)
 
 ---
 
 ## 🧩 ACTIVE MODULES
 
-- 🚀 **[NeuroNet Override](https://github.com/YOUR_USERNAME/neuronet)** → Core systems build  
-- 🌌 **[Pathway](https://github.com/YOUR_USERNAME/pathway)** → Roadmap interface  
-- 🔒 **[Data Rights Protocol](https://github.com/YOUR_USERNAME/legal)** → Privacy & neural terms
+- 🚀 **[NeuroNet Override](https://github.com/Ryux411/neuronet)** → Core systems build  
+- 🌌 **[Pathway](https://github.com/Ryux411/pathway)** → Roadmap interface  
+- 🔒 **[Data Rights Protocol](https://github.com/Ryux411/legal)** → Privacy & neural terms  
 
 ---
 
 ### 🛰 CONNECTIONS
-`Connections to the Network: [![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff4d4d)](https://github.com/YOUR_USERNAME)`
+
+Connections to the Network:  
+[![Visitors](https://komarev.com/ghpvc/?username=Ryux411&color=ff4d4d)](https://github.com/Ryux411)
+
+---
