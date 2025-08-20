@@ -42,7 +42,7 @@ External traces and inbound signals:
 ---
 ## EXTENDED SYSTEMS
 
-The operational range expands across the **full stack** — backend, immersive interfaces, and optimisation layers that strengthen delivery:  
+The operational range expands across the **full stack** — backend, immersive interfaces, optimisation layers, and automation protocols:  
 
 **Backend & Infrastructure**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -53,10 +53,22 @@ The operational range expands across the **full stack** — backend, immersive i
 **3D / Immersive**  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  
 
 **SEO / Optimisation**  
 ![Next SEO](https://img.shields.io/badge/Next%20SEO-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React Helmet](https://img.shields.io/badge/React%20Helmet-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Schema.org](https://img.shields.io/badge/Schema.org-FF6600?style=for-the-badge&logo=json&logoColor=white)  
 ![Vercel Analytics](https://img.shields.io/badge/Vercel%20Analytics-black?style=for-the-badge&logo=vercel&logoColor=white)  
+
+**Automation / Bots**  
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Eris](https://img.shields.io/badge/Eris-99AAB5?style=for-the-badge&logo=discord&logoColor=black)  
+![Discord API](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)  
+
+**DevOps / Tooling**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)  
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turbo&logoColor=white)  
+
 
