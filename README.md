@@ -26,10 +26,9 @@ Battle-tested technologies, consistently deployed to deliver resilient systems a
 
 Live telemetry from the repository node:  
 
-![Ryux411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryux411&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryux411&theme=radical)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryux411&theme=redical)  
+![Ryux411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryux411&show_icons=true&count_private=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ryux411&count_private=true&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryux411&count_private=true&theme=redical)  
 
 ---
 
@@ -133,7 +132,6 @@ Technologies tested, evaluated, and shelved — each adding depth to the map eve
 
 ---
 
-
 ### Languages  
 The root layer — core languages written, tested, and adapted across systems, from high-level frameworks to low-level scripts.  
 
@@ -146,4 +144,3 @@ The root layer — core languages written, tested, and adapted across systems, f
 ![Command Prompt](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 
 ---
-
