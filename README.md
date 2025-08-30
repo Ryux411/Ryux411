@@ -25,8 +25,8 @@ Battle-tested technologies, consistently deployed to deliver resilient systems a
 ## SYSTEM STATS
 
 Live telemetry from the repository node:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryux411&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryux411&count_private=true&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryux411&count_private=true&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryux411&count_private=true&theme=redical)
 
