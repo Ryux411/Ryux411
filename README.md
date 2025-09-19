@@ -1,20 +1,19 @@
 # ACCESS PROTOCOL: RYUX411
 
-I am a full-stack developer and systems designer with a focus on resilience, scalability, and clarity of execution.  
-My work spans the complete lifecycle of software — from interface design and immersive experiences to backend infrastructure, automation, and deployment pipelines.  
-Every project is approached with precision: frameworks and tools are selected not for trend but for their ability to deliver enduring, adaptable systems.  
+I am Ryu, a full-stack developer and systems architect with a career defined by precision, adaptability, and scale.  
+My expertise extends from frontend engineering and immersive user interfaces to backend infrastructure, automation, and deployment pipelines.  
+I do not chase trends — every technology in my toolkit has been battle-tested, selected for its reliability and its ability to serve long-term growth.  
 
-Although much of my professional output remains private due to work with large-scale organisations and enterprise contracts, this repository serves as a personal ledger of expertise.  
-It reflects not only the breadth of technologies I command but also the principles by which I operate: structure aligned with intent, adaptability across domains, and an uncompromising pursuit of technical excellence.  
-
-What follows is a portfolio of trusted frameworks, supporting systems, and languages I employ to design and deliver production-ready solutions.  
+Most of my professional projects remain private due to work with enterprise organisations and large-scale contracts.  
+This repository therefore operates as my public ledger: a portfolio of technologies, practices, and principles that reflect how I build.  
+It demonstrates a consistent focus on quality, performance, and systems that endure beyond the surface.  
 
 ---
 
-## PRIMARY PROTOCOLS
+## PRIMARY STACK
 
-These are the frameworks that form the backbone of my work.  
-They are proven, widely deployed, and consistently selected for their reliability and ability to scale in production environments.  
+The technologies that form the core of my work.  
+These frameworks deliver production-ready applications with resilience and efficiency.  
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
@@ -25,10 +24,9 @@ They are proven, widely deployed, and consistently selected for their reliabilit
 
 ---
 
-## SYSTEM STATS
+## SYSTEM INSIGHTS
 
-My public GitHub reflects only a portion of my practice — the remainder is private and enterprise-bound.  
-Nonetheless, these metrics provide an active trace of ongoing development cycles and contributions.  
+While my commercial work is not visible on GitHub, these metrics illustrate consistent engagement and technical activity.  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryux411&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryux411&count_private=true&theme=radical)  
@@ -38,23 +36,21 @@ Nonetheless, these metrics provide an active trace of ongoing development cycles
 
 ## CONNECTIONS
 
-Engagements and inbound signals from the wider network.  
-
 [![Visitors](https://komarev.com/ghpvc/?username=Ryux411&color=ff4d4d)](https://github.com/Ryux411)  
 
 ---
 
-## EXTENDED SYSTEMS
+## EXTENDED TOOLKIT
 
-Beyond the primary core, these technologies demonstrate adaptability across the stack.  
-Each has been applied in the right context: integrated where valuable, evaluated where exploratory, and retained where strategically effective.  
+My work requires breadth as well as depth.  
+These technologies expand my operational range, enabling me to adapt quickly to new environments and challenges.  
 
 ---
 
 ### Frontend Foundations  
 
-Strong interfaces begin with solid fundamentals.  
-From semantic structure to modular styling, these tools shape the surface of user experience.  
+Interfaces are only as strong as the foundations beneath them.  
+These technologies provide semantic structure and styling precision.  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -64,8 +60,8 @@ From semantic structure to modular styling, these tools shape the surface of use
 
 ### Backend & Infrastructure  
 
-Resilient systems are defined by their ability to handle load, connect services, and remain maintainable under pressure.  
-Here are the platforms I use to architect dependable server-side environments.  
+Reliable systems demand scalability, fault tolerance, and clean architecture.  
+These are the engines I use to build back-end services that can withstand production pressure.  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
@@ -78,8 +74,8 @@ Here are the platforms I use to architect dependable server-side environments.
 
 ### Databases & Persistence  
 
-Data integrity underpins any serious system.  
-I employ both relational and non-relational solutions, matched carefully to project demands, with caching layers for performance.  
+Data is the foundation of every serious application.  
+I specialise in both relational and non-relational databases, complemented by caching layers for performance and scale.  
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
@@ -89,9 +85,9 @@ I employ both relational and non-relational solutions, matched carefully to proj
 
 ---
 
-### 3D / Immersive Interfaces  
+### 3D and Immersive Interfaces  
 
-Beyond traditional front-end, I explore spatial and interactive experiences, bringing applications into immersive dimensions.  
+I extend interaction beyond the flat screen, creating immersive and spatial experiences.  
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 ![Babylon.js](https://img.shields.io/badge/Babylon.js-CC0000?style=for-the-badge&logo=babylon.js&logoColor=white)  
@@ -99,10 +95,10 @@ Beyond traditional front-end, I explore spatial and interactive experiences, bri
 
 ---
 
-### APIs & Real-Time Protocols  
+### APIs and Real-Time Protocols  
 
-Modern systems demand seamless, low-latency communication.  
-These tools support real-time interaction, live data streaming, and distributed networking.  
+Modern applications thrive on connectivity.  
+These protocols enable responsive, low-latency communication at scale.  
 
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
@@ -110,10 +106,10 @@ These tools support real-time interaction, live data streaming, and distributed 
 
 ---
 
-### SEO / Optimisation  
+### SEO and Optimisation  
 
-Visibility and performance are not afterthoughts — they are engineered into the foundation.  
-These frameworks ensure systems remain discoverable, performant, and structurally sound.  
+Performance and visibility are designed in, not added later.  
+These tools ensure the systems I build are discoverable, efficient, and structurally sound.  
 
 ![Next SEO](https://img.shields.io/badge/Next%20SEO-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![React Helmet](https://img.shields.io/badge/React%20Helmet-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -122,9 +118,10 @@ These frameworks ensure systems remain discoverable, performant, and structurall
 
 ---
 
-### Automation / Bots  
+### Automation and Bots  
 
-Automation extends human presence into networks and protocols, ensuring consistency and efficiency across systems.  
+Automation is a force multiplier.  
+From real-time communication to background processes, these tools extend capability across networks.  
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
 ![Eris](https://img.shields.io/badge/Eris-99AAB5?style=for-the-badge&logo=discord&logoColor=black)  
@@ -132,10 +129,10 @@ Automation extends human presence into networks and protocols, ensuring consiste
 
 ---
 
-### DevOps / Tooling  
+### DevOps and Tooling  
 
-Effective development requires robust workflows, automation, and quality assurance at every stage.  
-These tools underpin my pipelines, from package management to testing and code quality.  
+Engineering at scale requires robust pipelines, quality assurance, and automation.  
+I apply these tools to streamline delivery and safeguard reliability.  
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
@@ -148,10 +145,10 @@ These tools underpin my pipelines, from package management to testing and code q
 
 ---
 
-### Explored / Archived Protocols  
+### Explored and Archived  
 
-Technologies tested, evaluated, and archived.  
-Each contributes to a broader perspective, even when not in daily use.  
+Not every tool remains in rotation, but each experiment adds perspective.  
+These frameworks have been tested, evaluated, and filed as secondary.  
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
@@ -161,7 +158,8 @@ Each contributes to a broader perspective, even when not in daily use.
 
 ### Languages  
 
-The core layer: languages written, tested, and adapted across contexts, from application development to systems scripting.  
+My foundation as a developer is multi-lingual.  
+These languages give me the versatility to move between high-level frameworks, scripting, and systems programming.  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -171,3 +169,12 @@ The core layer: languages written, tested, and adapted across contexts, from app
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 ![Command Prompt](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+
+---
+
+## SUMMARY
+
+I bring together modern front-end frameworks, scalable back-end design, resilient data systems, and robust DevOps practices.  
+The result is not experimentation but execution: systems built to last, adapt, and perform.  
+
+If you are seeking a developer who combines technical depth with a strategic view of systems architecture, this portfolio speaks to that capability.  
