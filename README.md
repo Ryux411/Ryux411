@@ -1,10 +1,13 @@
-## ACCESS PROTOCOL: RYUX411
+# ACCESS PROTOCOL: RYUX411
 
-Ryu operates in cycles of design and execution, each construct deliberate, each layer a foundation for what follows.  
-The work is not measured in surface metrics or visible graphs but in the systems that persist beneath them — resilient, adaptive, built to endure.  
+I am a full-stack developer and systems designer with a focus on resilience, scalability, and clarity of execution.  
+My work spans the complete lifecycle of software — from interface design and immersive experiences to backend infrastructure, automation, and deployment pipelines.  
+Every project is approached with precision: frameworks and tools are selected not for trend but for their ability to deliver enduring, adaptable systems.  
 
-What emerges is not code alone, but frameworks that bind structure to intent.  
-This repository is both ledger and signal, tracing the path of a developer driven by precision, scale, and vision.  
+Although much of my professional output remains private due to work with large-scale organisations and enterprise contracts, this repository serves as a personal ledger of expertise.  
+It reflects not only the breadth of technologies I command but also the principles by which I operate: structure aligned with intent, adaptability across domains, and an uncompromising pursuit of technical excellence.  
+
+What follows is a portfolio of trusted frameworks, supporting systems, and languages I employ to design and deliver production-ready solutions.  
 
 ---
 
