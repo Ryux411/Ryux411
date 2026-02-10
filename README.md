@@ -1,32 +1,44 @@
 # Ryu — Software Engineer & Systems Architect
 
-I design and build scalable, resilient software systems across application, infrastructure, and security layers.  
-My work spans frontend and backend engineering, distributed services, automation, systems programming, and cybersecurity.
+I design and build software as systems, not features.
 
-I focus on architecture that remains stable under pressure, performs efficiently at scale, and can be maintained long-term.  
-Most commercial work remains private due to enterprise involvement and internal development contracts. This repository serves as a technical overview of the stacks, tools, and engineering domains I operate in.
+My work focuses on architecture, reliability, performance, and security across the full lifecycle of applications — from low-level implementation to infrastructure and operational stability. I operate across frontend, backend, systems engineering, and security-aware development, with an emphasis on building software that endures under real-world pressure.
+
+Most commercial work remains private due to enterprise involvement and internal contracts. This space serves as a technical profile and a reflection of the engineering domains I work within.
 
 ---
 
-## Core Engineering Domains
+## Engineering Focus
 
-- Software architecture & system design  
-- Full-stack application development  
-- Backend services & API engineering  
-- Distributed and real-time systems  
-- Systems programming & automation  
+- Large-scale application architecture  
+- Security-aware system design  
+- Backend services & distributed systems  
+- Real-time data flow & event-driven systems  
+- Performance-critical frontend engineering  
 - Infrastructure & deployment pipelines  
-- Database architecture & data modeling  
-- Performance optimization  
-- Security-aware engineering & hardening  
+- Automation and operational tooling  
+- Long-term maintainability and system evolution  
 
 ---
 
-## Primary Stack
+## Engineering Philosophy
 
-### Frontend Engineering
+- Architecture before implementation  
+- Design for failure, not ideal conditions  
+- Stability and clarity over trend adoption  
+- Performance and security as first-class concerns  
+- Systems built to scale, adapt, and persist  
+
+I prioritize structure, correctness, and resilience.  
+Technology choices are driven by practical value, longevity, and operational reliability.
+
+---
+
+## Core Technologies
+
+### Application & Interface Engineering
 - TypeScript
-- JavaScript (ES6+)
+- JavaScript
 - React
 - Next.js
 - TailwindCSS
@@ -38,29 +50,15 @@ Most commercial work remains private due to enterprise involvement and internal 
 - Node.js
 - Express
 - REST API design
-- WebSockets / Socket.io
-- Event-driven architectures
+- WebSockets / real-time communication
+- Event-driven patterns
 
-### Databases & Persistence
+### Data & Persistence
 - PostgreSQL
 - MongoDB
 - Redis
 - Supabase
-- Mongoose
-- Relational & non-relational modeling
-
----
-
-## Cybersecurity & Security Engineering
-
-- Secure authentication flows & session handling
-- Application hardening practices
-- Threat-aware system design
-- Input validation & attack surface reduction
-- Secure API architecture
-- Identity & access control concepts
-- Logging, monitoring & anomaly awareness
-- Security-first development lifecycle thinking
+- Relational and non-relational modeling
 
 ---
 
@@ -72,65 +70,55 @@ Most commercial work remains private due to enterprise involvement and internal 
 - Vercel
 - Railway
 - Render
-- Heroku
 - Environment orchestration
 - Deployment automation
+- Monitoring-aware system design
 
 ---
 
-## Languages
+## Cybersecurity & Hardening
 
-### Primary
-- TypeScript
-- JavaScript
+- Secure authentication & session design  
+- Access control and identity flows  
+- Attack surface reduction  
+- Input validation & defensive coding  
+- Security-aware architecture decisions  
+- Threat-conscious development practices  
+
+Security is treated as a design responsibility, not an afterthought.
+
+---
+
+## Systems Programming & Languages
+
+- TypeScript / JavaScript
 - Python
-
-### Systems & Low-Level Exposure
 - Rust
-- C
-- C++
+- C / C++
+- Lua
 - Bash / Shell scripting
 - PowerShell
-- Lua
 
-### Scripting & Automation
-- Batch
-- Command-line tooling
-- Process automation scripting
+Experience spans high-level application layers down to system-level tooling and automation.
 
 ---
 
-## Extended Technical Range
+## Extended Domains
 
-### 3D & Interactive Systems
+### Real-Time & Interactive Systems
 - Three.js
-- Babylon.js
 - WebGL
+- Babylon.js
 
-### Real-Time & Networking
-- WebSockets
-- Socket.io
-- API integration patterns
-
-### Tooling & Quality
-- PNPM / npm
-- Turborepo
-- ESLint
-- Prettier
-- Vitest
-- Jest
-
-### SEO & Performance Engineering
-- Next SEO
-- React Helmet
-- Structured data (Schema.org)
-- Performance-first frontend design
+### Automation & Integration
+- Discord API ecosystems
+- Process automation
+- Background task systems
 
 ---
 
 ## Approach
 
-I build systems with an emphasis on structure, reliability, and long-term operational stability.  
-Technology decisions are driven by performance, maintainability, and architectural clarity rather than trends.
+I work best in environments where systems must be stable, secure, and scalable over time.
 
-The goal is consistent execution: software that scales, adapts, and endures.
+The focus is not experimentation for its own sake, but execution — building software that performs reliably, evolves cleanly, and holds under production conditions.
