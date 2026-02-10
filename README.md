@@ -1,8 +1,6 @@
-# Ryu — Software Engineer, Systems Architect, and Epistemology-Driven Builder
+# Ryu — Software Engineer, Systems Architect
 
-My name is Ryu. I was named after a Tibetan monk my father met while climbing mountains — a reminder that discipline, clarity, and perspective matter as much as strength. That story informs how I approach engineering: with curiosity, rigor, and a commitment to understanding *how* things work, not just *that* they work.
-
-I treat software development as an epistemological exercise — the study of how we know what we know. Every system is a chain of assumptions, constraints, and evidence. My work focuses on building architectures that are observable, testable, and resilient, where decisions are grounded in reasoning rather than trend or habit.
+My name is Ryu. I approach engineering through an epistemological lens — the study of how we know what we know. Every system is a chain of assumptions, constraints, and evidence. My work focuses on building architectures that are observable, testable, and resilient, where decisions are grounded in reasoning rather than trend or habit.
 
 I design and build software as systems, not features.
 
